@@ -1,4 +1,4 @@
-module github.com/dghubble/sling
+module github.com/perigrin/sling
 
 go 1.12
 
